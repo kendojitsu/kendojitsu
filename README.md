@@ -1,5 +1,10 @@
-### Hi there 👋
+<p align="center">
+  
+  
+# Hey! 👋🏻 Kendo has arrived, ready to make a splash! <img src="https://i.imgur.com/veZrcC7.gif" alt="Infinity" width="50" />
 
+  <samp>
+    <br>
 <!--
 **kendojitsu/kendojitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
